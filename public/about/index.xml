@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Petit Poll</title>
+    <link>/about/</link>
+    <description>Recent content in About on Petit Poll</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 13:19:25 +0800</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>Petit Poll&amp;rsquo;s version 0.1 first test delivered the hoped for result. An example poll was randomly generated to a particular overall 2PP value and then most of the data removed. On the basis of that reduced dataset, the model was able to return a similar overall 2PP. The result is a nice sign that something is going well in the model.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/about/overview/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/overview/</guid>
+      <description>Overview Petit Poll combines data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information as appropriate.
+We gather non-representative samples combined with demographic and other data. We then use statistical models to &amp;lsquo;scale up&amp;rsquo; the samples to provide results that are meaningful and akin to representative results.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/about/team/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/team/</guid>
+      <description>Team Monica and Rohan Alexander are the co-founders of Petit Poll.
+Monica is a PhD candidate in the Demography Department at the University of California, Berkeley. She holds a Bachelor of Science (mathematics and chemistry) degree from the University of Tasmania, a Master of Social Research degree from the Australian National University (ANU) and Master of Arts degrees (statistics and demography) from Berkeley. In July 2018 she is joining the University of Toronto as an Assistant Professor in the departments of Statistical Sciences and Sociology.</description>
+    </item>
+    
+    <item>
+      <title>Logo</title>
+      <link>/about/logo/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/logo/</guid>
+      <description>Logo Our logo is based on Euclid&amp;rsquo;s &amp;lsquo;Elements of Geometry&amp;rsquo;, as coloured by Oliver Byrne in 1847 and republished by Taschen in 2013. The angles of the blue and red inner parallelograms are related to each other. If you understand how they relate then you can use all of that to make claims understand the larger, outer, parallelogram. It&amp;rsquo;s analogous to what we do with Petit Poll &amp;ndash; using information we collect on a small sample and the knowledge of how it should scale up, to understand the bigger picture.</description>
+    </item>
+    
+  </channel>
+</rss>

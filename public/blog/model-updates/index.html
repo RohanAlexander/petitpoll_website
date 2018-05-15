@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="Australian political polling">
+	<meta name="author" content="Petit Poll">
+	<meta name="generator" content="Hugo 0.38.2" />
+	<title>Model updates &middot; Petit Poll</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="/css/main.css"/>
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="/" class="logo"><strong>Petit Poll</strong> <span>Small scale Australian political polling</span></a>
+        <nav>
+            <a href="#menu">Menu</a>
+        </nav>
+    </header>
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="/">Home</a></li>
+            
+                <li><a href="/blog">Blog</a></li>
+            
+                <li><a href="/blog/ipsum">Generic Blog</a></li>
+            
+                <li><a href="/elements.html">Elements</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+                <li><a href="/blog" class="button special fit">Get Started</a></li>
+            
+            
+                <li><a href="/" class="button fit">Log In</a></li>
+            
+        </ul>
+    </nav>
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Model updates</h1>
+                            </header>
+                            
+                                <span class="image main"><img src="/img/blog/amherst_snow.jpg" alt="" /></span>
+                            
+                            <p>We use a multilevel regression and post-stratification (MRP) approach to obtain estimates of voting intent. Our approach closely follows the approach used by Ghitza and Gelman (2013). However, this week we made some changes to the underlying model, to better make use of the information obtained from the weekly polls.</p>
+
+<p>A brief description of the model framework: First, we split up the sample of respondents into subgroups based on sex, age and education. We have four age groups (18-29, 30-44, 45-64 and 65+) and four education groups (high school or less, certificate, bachelors, postgraduate). The main idea is to estimate the probability that a person in a particular subgroup (of a particular sex, age and education level) will vote for party X. This is the multilevel regression part of the approach.</p>
+
+<p>Once the probabilities for each sub-group are estimated, they are re-weighted and combined to give an overall population estimate. The weights in this process are based on the percent of the total population in each of the subgroups. It is this re-weighting (post-stratification) process that allows us to use a non-representative sample to get a representative estimate.</p>
+
+<p>The change to the model we made this week was related to how estimates were made in the multilevel regression part of the approach. Previously, we had been estimating the model for each week separately. However, this ignores the fact that we have information from other weeks that is useful for estimation. Thus, we made a change to the model so that the parameters estimated for a particular week are partially informed by data collected in previous weeks. This change better utilizes all information available and also makes our parameter estimates more robust from week to week.</p>
+
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="https://twitter.com/petitpoll" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                
+                    <li><a href="mailto:contact@petitpoll.com" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+                
+                    <li><a href="https://github.com/PetitPoll" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; Petit Poll, 2018</li>
+                
+                <li>Design:  <a href="https://www.html5up.net">HTML5 UP</a></li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.scrolly.min.js"></script>
+    <script src="/js/jquery.scrollex.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="/js/main.js"></script>
+
+    
+
+    
+
+    </body>
+</html>
