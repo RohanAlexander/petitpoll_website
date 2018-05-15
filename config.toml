@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "petitpoll.com/"
+baseURL = "https://petitpolltest.netlify.com/"
 languageCode = "en-us"
 title = "Petit Poll"
 theme = "forty"
