@@ -27,7 +27,7 @@ disqusShortname = ""
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "img/favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
   image = ""
@@ -54,12 +54,12 @@ disqusShortname = ""
       url = "blog"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blog/ipsum"
+      name = "About"
+      url = "about_petit_poll"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Latest results"
+      url = "blog/about"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -69,14 +69,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blog"
+    #[[params.navigation.button1]]
+    #  name = "Get Started"
+    #  url = "blog"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #[[params.navigation.button2]]
+    #  name = "Log In"
+    #  url = "#"
 
 
   # Banner section
@@ -84,7 +84,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, we're Petit Poll"
-    subtitle = "We use surveys and statistics to generate meaningful small-scale Australian political polling."
+    subtitle = "We use surveys and statistics to generate small-scale Australian political polling."
     buttonText = "Learn more"
 
 

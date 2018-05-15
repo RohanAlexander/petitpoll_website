@@ -2856,11 +2856,11 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #f8d549;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #d32e21;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
