@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://petitpolltest.netlify.com/"
 languageCode = "en-us"
 title = "Petit Poll"
 theme = "forty"
@@ -202,7 +202,7 @@ disqusShortname = ""
     #   icon = "fa-instagram"
     #   url= "https://www.instagram.com"
     #   label = "Instagram"
-    
+
     [[params.footer.social]]
       icon = "fa-envelope"
       url= "mailto:contact@petitpoll.com"
