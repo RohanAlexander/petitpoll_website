@@ -2,7 +2,7 @@
 title: A thimble of success
 author: Rohan
 date: '2016-05-15'
-image: pic10.jpg
+image: DSCF3125.jpg
 slug: a-thimble-of-success
 categories: []
 tags: []

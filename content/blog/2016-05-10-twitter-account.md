@@ -2,7 +2,7 @@
 title: Twitter account
 author: Rohan
 date: '2016-05-10'
-image: pic10.jpg
+image: DSCF3021.jpg
 slug: twitter-account
 categories: []
 tags: []

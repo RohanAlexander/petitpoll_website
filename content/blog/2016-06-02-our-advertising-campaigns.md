@@ -2,7 +2,7 @@
 title: Our advertising campaigns
 author: Rohan
 date: '2016-06-02'
-image: pic10.jpg
+image: 2013-09-2518.29.00.jpg
 slug: our-advertising-campaigns
 categories: []
 tags: []

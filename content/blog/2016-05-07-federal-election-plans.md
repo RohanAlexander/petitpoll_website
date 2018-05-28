@@ -2,7 +2,7 @@
 title: Federal Election Plans
 author: Rohan
 date: '2016-05-07'
-image: pic10.jpg
+image: DSCF4365.jpg
 slug: federal-election-plans
 categories: []
 tags: []

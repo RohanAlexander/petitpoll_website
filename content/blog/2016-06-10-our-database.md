@@ -2,7 +2,7 @@
 title: Our database
 author: Rohan
 date: '2016-06-10'
-image: pic10.jpg
+image: DSCF4251.jpg
 slug: our-database
 categories: []
 tags: []

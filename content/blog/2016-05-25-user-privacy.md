@@ -2,7 +2,7 @@
 title: User privacy
 author: Rohan
 date: '2016-05-25'
-image: pic10.jpg
+image: DSCF3371.jpg
 slug: user-privacy
 categories: []
 tags: []

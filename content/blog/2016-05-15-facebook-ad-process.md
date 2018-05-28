@@ -2,7 +2,7 @@
 title: Facebook ad process
 author: Rohan
 date: '2016-05-15'
-image: pic10.jpg
+image: DSCF3262.jpg
 slug: facebook-ad-process
 categories: []
 tags: []

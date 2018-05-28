@@ -2,7 +2,7 @@
 title: Brexit polling
 author: Rohan
 date: '2016-06-24'
-image: nt_dirt.jpg
+image: DSCF4329.jpg
 slug: brexit-polling
 categories: []
 tags: []

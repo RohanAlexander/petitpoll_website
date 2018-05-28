@@ -2,7 +2,7 @@
 title: Hello from Chicago
 author: Rohan
 date: '2016-05-23'
-image: pic10.jpg
+image: DSCF3336_big.jpg
 slug: hello-from-chicago
 categories: []
 tags: []

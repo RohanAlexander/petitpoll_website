@@ -2,7 +2,7 @@
 title: Live From California
 author: Rohan
 date: '2016-05-09'
-image: pic10.jpg
+image: DSCF4404.jpg
 slug: live-from-california
 categories: []
 tags: []

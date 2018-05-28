@@ -2,7 +2,7 @@
 title: What our ads look like
 author: Rohan
 date: '2016-06-05'
-image: pic10.jpg
+image: Oxford-BodleianLibrary.jpg
 slug: what-our-ads-look-like
 categories: []
 tags: []

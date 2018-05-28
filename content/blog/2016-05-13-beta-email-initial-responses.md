@@ -2,7 +2,7 @@
 title: Beta-email initial responses
 author: Rohan
 date: '2016-05-13'
-image: pic10.jpg
+image: DSCF3051.jpg
 slug: beta-email-initial-responses
 categories: []
 tags: []
