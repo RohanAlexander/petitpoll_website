@@ -49,17 +49,17 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    [[params.navigation.links]]
-      name = "Blog"
-      url = "blog"
+    #[[params.navigation.links]]
+    #  name = "Blog"
+    #  url = "blog"
 
     [[params.navigation.links]]
       name = "About"
       url = "about_petit_poll"
 
-    [[params.navigation.links]]
-      name = "Latest results"
-      url = "blog/about"
+    #[[params.navigation.links]]
+    #  name = "Latest results"
+    #  url = "blog/about"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -99,11 +99,11 @@ disqusShortname = ""
       image = "pic01.jpg"
       url = "about_petit_poll"
 
-    [[params.tiles.showcase]]
-      title = "Latest results"
-      subtitle = "Find out more about our latest results"
-      image = "pic02.jpg"
-      url = "blog/about"
+    #[[params.tiles.showcase]]
+    #  title = "Latest results"
+    #  subtitle = "Find out more about our latest results"
+    #  image = "pic02.jpg"
+    #  url = "blog/about"
 
   #  [[params.tiles.showcase]]
   #    title = "Privacy"
@@ -139,7 +139,7 @@ disqusShortname = ""
 
   # Section Type Two
   [params.two]
-    enable = true
+    enable = false
     title = "Blog"
     subtitle = "We communicate most of our analysis using our blog."
     buttonText = "See the latest"
@@ -185,13 +185,13 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Petit Poll, 2018"
+    copyright = "Petit Poll, 2019"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://twitter.com/petitpoll"
-      label = "Twitter"
+  #  [[params.footer.social]]
+  #    icon = "fa-twitter"
+  #    url= "https://twitter.com/petitpoll"
+   #   label = "Twitter"
 
     # [[params.footer.social]]
     #   icon = "fa-facebook"
@@ -203,15 +203,15 @@ disqusShortname = ""
     #   url= "https://www.instagram.com"
     #   label = "Instagram"
 
-    [[params.footer.social]]
-      icon = "fa-envelope"
-      url= "mailto:contact@petitpoll.com"
-      label = "Email"
+   # [[params.footer.social]]
+  #    icon = "fa-envelope"
+  #    url= "mailto:contact@petitpoll.com"
+  #    label = "Email"
 
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://github.com/PetitPoll"
-      label = "GitHub"
+   # [[params.footer.social]]
+  #  icon = "fa-github"
+   #   url= "https://github.com/PetitPoll"
+  #    label = "GitHub"
 
     #[[params.footer.social]]
     #  icon = "fa-linkedin"
