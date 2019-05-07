@@ -99,17 +99,17 @@ disqusShortname = ""
       image = "pic01.jpg"
       url = "about_petit_poll"
 
-    #[[params.tiles.showcase]]
-    #  title = "Latest results"
-    #  subtitle = "Find out more about our latest results"
-    #  image = "pic02.jpg"
-    #  url = "blog/about"
-
   #  [[params.tiles.showcase]]
-  #    title = "Privacy"
-  #    subtitle = "Learn more about our practises"
-  #    image = "pic03.jpg"
-  #    url = "blog/magna"
+  #    title = "Latest results"
+  #    subtitle = "Find out more about our latest results"
+  #    image = "pic02.jpg"
+  #    url = "blog/about"
+
+    [[params.tiles.showcase]]
+      title = "Privacy"
+      subtitle = "Learn more about our practises"
+      image = "pic02.jpg"
+      url = "blog/magna"
 
   #  [[params.tiles.showcase]]
   #    title = "Privacy"
@@ -139,7 +139,7 @@ disqusShortname = ""
 
   # Section Type Two
   [params.two]
-    enable = false
+    enable = true
     title = "Blog"
     subtitle = "We communicate most of our analysis using our blog."
     buttonText = "See the latest"
