@@ -6,10 +6,19 @@
     <description>Recent content on Petit Poll</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intention poll</title>
+      <link>/intentionpoll/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/intentionpoll/</guid>
+      <description>   (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,17 +26,8 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/about_petit_poll/</guid>
-      <description>Overview Petit Poll combines data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information as appropriate.
+      <description>Overview Petit Poll uses machine learning to make political polling that is meaningful but cheap. We combine data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information over time and space.
 We gather non-representative samples combined with demographic and other data. We then use statistical models to &amp;lsquo;scale up&amp;rsquo; the samples to provide results that are meaningful and akin to representative results.</description>
-    </item>
-    
-    <item>
-      <title>Latest results</title>
-      <link>/blog/about/</link>
-      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/about/</guid>
-      <description>Place holder for results.</description>
     </item>
     
     <item>

@@ -6,6 +6,7 @@ theme = "forty"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
@@ -22,7 +23,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Petit Poll"
-  description = "Australian political polling"
+  description = "Modern political polling"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -32,6 +33,8 @@ disqusShortname = ""
   # Just a custom image variable, please define it in .md files for content.
   image = ""
 
+  typeformid = "NDQET2" # Required
+
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
@@ -40,7 +43,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Petit Poll"
-    subtitle = "Small scale Australian political polling"
+    subtitle = "Modern political polling"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -49,13 +52,17 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    #[[params.navigation.links]]
-    #  name = "Blog"
-    #  url = "blog"
-
     [[params.navigation.links]]
       name = "About"
       url = "about_petit_poll"
+    
+    [[params.navigation.links]]
+      name = "Sign-up"
+      url = "signup"
+
+    [[params.navigation.links]]
+      name = "Blog"
+      url = "blog"
 
     #[[params.navigation.links]]
     #  name = "Latest results"
@@ -84,7 +91,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, we're Petit Poll"
-    subtitle = "We use surveys and statistics to generate small-scale Australian political polling."
+    subtitle = "We use machine learning to make political polling that is meaningful but cheap."
     buttonText = "Learn more"
 
 
@@ -98,18 +105,24 @@ disqusShortname = ""
       subtitle = "Find out more about us"
       image = "pic01.jpg"
       url = "about_petit_poll"
-
-  #  [[params.tiles.showcase]]
-  #    title = "Latest results"
-  #    subtitle = "Find out more about our latest results"
-  #    image = "pic02.jpg"
-  #    url = "blog/about"
-
-    [[params.tiles.showcase]]
-      title = "Privacy"
-      subtitle = "Learn more about our practises"
+      
+          [[params.tiles.showcase]]
+      title = "Sign up"
+      subtitle = "Take our polls and get our latest results"
       image = "pic02.jpg"
-      url = "blog/magna"
+      url = "signup"
+
+    #[[params.tiles.showcase]]
+    #  title = "Historical results"
+    #  subtitle = "Find out more about some earlier results"
+    #  image = "pic02.jpg"
+    #  url = "blog/about"
+
+    #[[params.tiles.showcase]]
+    #  title = "Privacy and ethics"
+    #  subtitle = "Learn more about our practises"
+    #  image = "pic02.jpg"
+    #  url = "privacy_and_ethics"
 
   #  [[params.tiles.showcase]]
   #    title = "Privacy"
@@ -141,7 +154,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Blog"
-    subtitle = "We communicate most of our analysis using our blog."
+    subtitle = "We communicate most of our analysis to our email subscribers (sign-up by taking our polls), but post occasional articles here."
     buttonText = "See the latest"
     url = "blog"
 
@@ -188,10 +201,10 @@ disqusShortname = ""
     copyright = "Petit Poll, 2019"
 
     # Uses font awesome icons
-  #  [[params.footer.social]]
-  #    icon = "fa-twitter"
-  #    url= "https://twitter.com/petitpoll"
-   #   label = "Twitter"
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://twitter.com/petitpoll"
+      label = "Twitter"
 
     # [[params.footer.social]]
     #   icon = "fa-facebook"
@@ -203,10 +216,10 @@ disqusShortname = ""
     #   url= "https://www.instagram.com"
     #   label = "Instagram"
 
-   # [[params.footer.social]]
-  #    icon = "fa-envelope"
-  #    url= "mailto:contact@petitpoll.com"
-  #    label = "Email"
+    [[params.footer.social]]
+      icon = "fa-envelope"
+      url= "mailto:contact@petitpoll.com"
+      label = "Email"
 
    # [[params.footer.social]]
   #  icon = "fa-github"
