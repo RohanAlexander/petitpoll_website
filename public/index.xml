@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Intention poll</title>
-      <link>/intentionpoll/</link>
+      <title>Sign up</title>
+      <link>/signup/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/intentionpoll/</guid>
+      <guid>/signup/</guid>
       <description>   (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
     </item>
     
@@ -26,8 +26,18 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/about_petit_poll/</guid>
-      <description>Overview Petit Poll uses machine learning to make political polling that is meaningful but cheap. We combine data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information over time and space.
-We gather non-representative samples combined with demographic and other data. We then use statistical models to &amp;lsquo;scale up&amp;rsquo; the samples to provide results that are meaningful and akin to representative results.</description>
+      <description>Overview Since 2016 Petit Poll has used machine learning to make political polling that is meaningful but cheap. We combine data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information over time and space.
+We gather non-representative samples combined with demographic and other data.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/tests/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tests/</guid>
+      <description>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   Overview Petit Poll uses machine learning to make political polling that is meaningful but cheap. We combine data from biased surveys with statistical methods to generate meaningful results. We are able to gain an understanding of opinion at a more granular level because biased surveys have lower costs and our model shares information over time and space.
+We gather non-representative samples combined with demographic and other data.</description>
     </item>
     
     <item>

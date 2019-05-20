@@ -57,7 +57,7 @@ disqusShortname = ""
       url = "about_petit_poll"
     
     [[params.navigation.links]]
-      name = "Sign-up"
+      name = "Sign up"
       url = "signup"
 
     [[params.navigation.links]]
@@ -91,7 +91,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, we're Petit Poll"
-    subtitle = "We use machine learning to make political polling that is meaningful but cheap."
+    subtitle = "We use machine learning to make Australian political polling that is meaningful but cheap."
     buttonText = "Learn more"
 
 
@@ -108,7 +108,7 @@ disqusShortname = ""
       
           [[params.tiles.showcase]]
       title = "Sign up"
-      subtitle = "Take our polls and get our latest results"
+      subtitle = "Take our polls to get our latest results"
       image = "pic02.jpg"
       url = "signup"
 
@@ -154,7 +154,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Blog"
-    subtitle = "We communicate most of our analysis to our email subscribers (sign-up by taking our polls), but post occasional articles here."
+    subtitle = "We communicate most of our analysis to our email subscribers but post occasional articles here."
     buttonText = "See the latest"
     url = "blog"
 
