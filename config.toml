@@ -110,7 +110,7 @@ disqusShortname = ""
       title = "Sign up"
       subtitle = "Take our polls to get our latest results"
       image = "pic02.jpg"
-      url = "signup"
+      url = "https://mailchi.mp/98524a5e4cc0/petitpoll"
 
     #[[params.tiles.showcase]]
     #  title = "Historical results"
