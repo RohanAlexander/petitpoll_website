@@ -106,11 +106,11 @@ disqusShortname = ""
       image = "pic01.jpg"
       url = "about_petit_poll"
       
-          [[params.tiles.showcase]]
-      title = "Sign up"
-      subtitle = "Take our polls to get our latest results"
-      image = "pic02.jpg"
-      url = "https://mailchi.mp/98524a5e4cc0/petitpoll"
+#          [[params.tiles.showcase]]
+      #title = "Sign up"
+      #subtitle = "Take our polls to get our latest results"
+      #image = "pic02.jpg"
+      #url = "https://mailchi.mp/98524a5e4cc0/petitpoll"
 
     #[[params.tiles.showcase]]
     #  title = "Historical results"
@@ -218,7 +218,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-envelope"
-      url= "mailto:contact@petitpoll.com"
+      url= "mailto:rohanalexander@hey.com"
       label = "Email"
 
    # [[params.footer.social]]

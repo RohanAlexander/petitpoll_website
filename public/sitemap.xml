@@ -1,162 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019-08-04-federal-poll/</loc>
+    <loc>https://petitpoll.com/2019-08-04-federal-poll/</loc>
     <lastmod>2019-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019-07-01-federal-poll/</loc>
+    <loc>https://petitpoll.com/</loc>
+    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://petitpoll.com/2019-07-01-federal-poll/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/signup/</loc>
+    <loc>https://petitpoll.com/signup/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about_petit_poll/</loc>
+    <loc>https://petitpoll.com/about_petit_poll/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tests/</loc>
+    <loc>https://petitpoll.com/tests/</loc>
     <lastmod>2018-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://petitpoll.com/blog/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/brexit-polling/</loc>
+    <loc>https://petitpoll.com/blog/brexit-polling/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/who-do-you-trust/</loc>
+    <loc>https://petitpoll.com/blog/who-do-you-trust/</loc>
     <lastmod>2016-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/model-updates/</loc>
+    <loc>https://petitpoll.com/blog/model-updates/</loc>
     <lastmod>2016-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/our-database/</loc>
+    <loc>https://petitpoll.com/blog/our-database/</loc>
     <lastmod>2016-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/what-our-ads-look-like/</loc>
+    <loc>https://petitpoll.com/blog/what-our-ads-look-like/</loc>
     <lastmod>2016-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/our-advertising-campaigns/</loc>
+    <loc>https://petitpoll.com/blog/our-advertising-campaigns/</loc>
     <lastmod>2016-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/user-privacy/</loc>
+    <loc>https://petitpoll.com/blog/user-privacy/</loc>
     <lastmod>2016-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/hello-from-chicago/</loc>
+    <loc>https://petitpoll.com/blog/hello-from-chicago/</loc>
     <lastmod>2016-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/a-thimble-of-success/</loc>
+    <loc>https://petitpoll.com/blog/a-thimble-of-success/</loc>
     <lastmod>2016-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/facebook-ad-process/</loc>
+    <loc>https://petitpoll.com/blog/facebook-ad-process/</loc>
     <lastmod>2016-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/beta-email-initial-responses/</loc>
+    <loc>https://petitpoll.com/blog/beta-email-initial-responses/</loc>
     <lastmod>2016-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/twitter-account/</loc>
+    <loc>https://petitpoll.com/blog/twitter-account/</loc>
     <lastmod>2016-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/live-from-california/</loc>
+    <loc>https://petitpoll.com/blog/live-from-california/</loc>
     <lastmod>2016-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/federal-election-plans/</loc>
+    <loc>https://petitpoll.com/blog/federal-election-plans/</loc>
     <lastmod>2016-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/version-0-1/</loc>
+    <loc>https://petitpoll.com/blog/version-0-1/</loc>
     <lastmod>2016-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/results/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://petitpoll.com/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://petitpoll.com/results/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://petitpoll.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://petitpoll.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://petitpoll.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/results/</loc>
+    <loc>https://petitpoll.com/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://petitpoll.com/results/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://petitpoll.com/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>
